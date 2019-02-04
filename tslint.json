@@ -1,5 +1,5 @@
 {
-    "extends": [],
+    "extends": [], 
     "defaultSeverity": "warning",
     "linterOptions": {
       "exclude": [
